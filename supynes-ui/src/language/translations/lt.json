@@ -1,0 +1,51 @@
+{
+  "common": {
+    "login": "Prisijungti",
+    "logout": "Atsijungti",
+    "greeting": "Labas"
+  },
+  "menu": {
+    "products": "Produktų sąrašas",
+    "orders": "Užsakymai",
+    "view in map": "Žiūrėti žemėlapyje",
+    "view in list": "Žiūrėti sąraše",
+    "create new entry": "Kurti naują įrašą",
+    "see more": "Žiūrėti daugiau"
+  },
+  "validations": {
+    "default": "Laukas yra nevalidus",
+    "required": "Laukas \"$t({{label}})\" yra privalomas",
+    "typeError": "Blogas reikšmės tipas",
+    "numberMin": "Lauko \"$t({{label}})\" reikšmė privalo būti didesnė nei {{min}}"
+  },
+  "item": {
+    "wood": "Medis",
+    "plastic": "Plastikas",
+    "metal": "Metalas",
+    "other": "Kita",
+    "chain": "Lenciūgas",
+    "metal pipe": "Metalo vamzdis",
+    "rope": "Šniūras",
+    "grass": "Žolė",
+    "concrete": "Betonofkė",
+    "sand": "Smėlis",
+    "tiles": "Plytelės",
+    "water": "Vanduo",
+    "seat material": "Sėdynės medžiaga",
+    "handlebar": "Ranktūris",
+    "paving": "Žemės pagrindas",
+    "location latitude": "Platumos kordinatės",
+    "location longitude": "Ilgumos kordinatės",
+    "coordinates": "Kordinatės",
+    "choose file": "Choose file",
+    "no file chosen": "no file chosen",
+    "author": "Įrašo autorius",
+    "title": "Pavadinimas",
+    "description": "Aprašymas",
+    "delete": "Trinti",
+    "edit": "Redaguoti",
+    "update": "Atnaujinti",
+    "create": "Kurti",
+    "photo not found": "Nuotrauka nerasta"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "greeting": "Hello"
+  },
+  "menu": {
+    "view in map": "View in map",
+    "view in list": "View in list",
+    "create new entry": "Create new entry",
+    "see more": "Continue reading"
+  },
+  "validations": {
+    "default": "Field is not valid",
+    "required": "Field \"$t({{label}})\" is required",
+    "typeError": "Bad value type",
+    "numberMin": "Value of \"$t({{label}})\" must be bigger than {{min}}"
+  },
+  "item": {
+    "wood": "Wood",
+    "plastic": "Plastic",
+    "metal": "Metal",
+    "other": "Other",
+    "chain": "Chain",
+    "metal pipe": "Metal pipe",
+    "rope": "Rope",
+    "grass": "Grass",
+    "concrete": "Concrete",
+    "sand": "Sand",
+    "tiles": "Tiles",
+    "water": "Water",
+    "author": "Author",
+    "title": "Title",
+    "seat material": "Seat material",
+    "handlebar": "Handlebar",
+    "paving": "Paving",
+    "description": "Description",
+    "location latitude": "Location latitude",
+    "location longitude": "Location longitude",
+    "choose file": "Choose file",
+    "no file chosen": "no file chosen",
+    "coordinates": "Coordinates",
+    "delete": "Delete",
+    "edit": "Edit",
+    "update": "Update",
+    "create": "Create",
+    "photo not found": "Photo not found"
+  }
+}
